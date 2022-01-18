@@ -9,7 +9,7 @@ import vue from '../../main'
 export async function getAxiosInstance() {
   var baseURL, instance
 
-  baseURL = 'http://couy.xyz:3001/';
+  baseURL = '';
 
   /** 
    * 请求失败后的错误统一处理 

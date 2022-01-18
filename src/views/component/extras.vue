@@ -23,7 +23,7 @@
           </div>
         </div>
 
-        <div class="footer">
+        <!-- <div class="footer">
           <div class="footer-github">
             <a class="github" target="_blank" @click="navToGithub" title="源码" src="https://github.com/Couy69/vue-idle-game">
             </a>
@@ -41,7 +41,7 @@
           </div>
           
           
-        </div>
+        </div> -->
       </div>
     </transition>
 
